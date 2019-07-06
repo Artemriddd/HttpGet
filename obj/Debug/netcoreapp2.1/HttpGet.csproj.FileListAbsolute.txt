@@ -1,0 +1,11 @@
+D:\Programm\http_release\HttpGet\HttpGet\bin\Debug\netcoreapp2.1\HttpGet.deps.json
+D:\Programm\http_release\HttpGet\HttpGet\bin\Debug\netcoreapp2.1\HttpGet.runtimeconfig.json
+D:\Programm\http_release\HttpGet\HttpGet\bin\Debug\netcoreapp2.1\HttpGet.runtimeconfig.dev.json
+D:\Programm\http_release\HttpGet\HttpGet\bin\Debug\netcoreapp2.1\HttpGet.dll
+D:\Programm\http_release\HttpGet\HttpGet\bin\Debug\netcoreapp2.1\HttpGet.pdb
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.csprojAssemblyReference.cache
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.csproj.CoreCompileInputs.cache
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.AssemblyInfoInputs.cache
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.AssemblyInfo.cs
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.dll
+D:\Programm\http_release\HttpGet\HttpGet\obj\Debug\netcoreapp2.1\HttpGet.pdb
